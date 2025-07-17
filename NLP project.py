@@ -9,6 +9,7 @@
 # pip install wordcloud
 # pip install matplotlib
 # pip install pandas
+#pip install wordcloud
 
 
 import nltk
